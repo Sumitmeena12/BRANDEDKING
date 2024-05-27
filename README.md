@@ -1,5 +1,5 @@
 ━━━━━━━━━━━━━━━━━━━━
-# 𝗕𝗥𝗔𝗡𝗗𝗘𝗗 𝓧 𝗞𝗜𝗡𝗚
+# DRAGON 𝓧 𝗞𝗜𝗡𝗚
 
 ━━━━━━━━━━━━━━━━━━━━
 ### 🌷𝐕𝐈𝐒𝐈𝐓𝐎𝐑𝐒🌷
@@ -7,11 +7,11 @@
 
 
 [![](https://img.shields.io/badge/BRANDEDKING-V2-darkgreen)](#)
-[![Stars](https://img.shields.io/github/stars/WCGKING/BRANDEDKING?style=flat-square&color=yellow)](https://github.com/WCGKING/BRANDEDKING/stargazers)
-[![Forks](https://img.shields.io/github/forks/WCGKING/BRANDEDKING?style=flat-square&color=orange)](https://github.com/WCGKING/BRANDEDKING/fork)
+[![Stars](https://img.shields.io/github/stars/WCGKING/BRANDEDKING?style=flat-square&color=yellow)](https://github.com/Sumitmeena12/BRANDEDKING)
+[![Forks](https://img.shields.io/github/forks/WCGKING/BRANDEDKING?style=flat-square&color=orange)](https://github.com/Sumitmeena12/BRANDEDKING)
 
 
-![logo](https://te.legra.ph/file/8ec25796bc604fbfacdf1.jpg)
+![logo](https://telegra.ph/file/d5d88fe2520e09e32ef07.jpg)
 
 <img src="https://readme-typing-svg.herokuapp.com?color=F77247&width=980&lines=This+Project+Is+Inspired+On+The+Hard+Work+Branded+Network%E2%9D%A4%EF%B8%8F">
 </p>
@@ -26,7 +26,7 @@
 ## 𝗗𝗲𝗽𝗹𝗼𝘆 𝗼𝗻 𝗛𝗲𝗿𝗼𝗸𝘂
 Get the [Necessary Variables](#Necessary-Variables) and then click the button below!  
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/WCGKING/BRANDEDKING)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Sumitmeena12/BRANDEDKING)
 
 
 🔴「 𝗜𝗙 𝗔𝗡𝗬 𝗘𝗥𝗥𝗢𝗥 𝗧𝗛𝗘𝗡 𝗦𝗘𝗡𝗗 𝗦𝗦 𝗧𝗢 𝗗𝗠 」🔴
@@ -35,12 +35,12 @@ Get the [Necessary Variables](#Necessary-Variables) and then click the button be
 </p>
 <h3 align="center">
 
-![logo](https://te.legra.ph/file/e545cecbd06581d1a98f3.jpg)
+![logo](https://telegra.ph/file/d5d88fe2520e09e32ef07.jpg)
 
 ━━━━━━━━━━━━
 
 ## 𝗗𝗲𝗽𝗹𝗼𝘆 𝗼𝗻 𝗩𝗣𝗦
-- Get your [Necessary Variables](https://github.com/WCGKING/BRANDEDKING/blob/master/.env)
+- Get your [Necessary Variables](https://github.com/Sumitmeena12/BRANDEDKING/edit/main/README.md)
 - Upgrade and Update by :
 `sudo apt-get update && sudo apt-get upgrade -y`
 - Install Ffmpeg by :
@@ -72,7 +72,7 @@ Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
 ━━━━━━━━━━━━━━━━━━━━
 
 # Credit
-  - [𝐁𝐑𝐀𝐍𝐃𝐄𝐃 𝐗 𝐊𝐈𝐍𝐆](https://github.com/BRANDEDKING82)
+  - [𝐁𝐑𝐀𝐍𝐃𝐄𝐃 𝐗 𝐊𝐈𝐍𝐆](https://github.com/Sumitmeena12/BRANDEDKING)
 
 • This project is TheGodFather.
 
@@ -80,4 +80,4 @@ Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
 
 Made with ♥️ by [𝗪𝗖𝗚𝗞𝗜𝗡𝗚](https://github.com/WCGKING)
 
-- <b> sᴩᴇᴄɪᴀʟ ᴛʜᴀɴᴋs ᴛᴏ [ᴛᴇᴀᴍ ʙʀᴀɴᴅᴇᴅ](https://github.com/WCGKING) ғᴏʀ [ʙʀᴀɴᴅᴇᴅ ᴍᴜsɪᴄ ʙᴏᴛ](https://github.com/WCGKING/BRANDEDKING). </b>
+- <b> sᴩᴇᴄɪᴀʟ ᴛʜᴀɴᴋs ᴛᴏ [ᴛᴇᴀᴍ ʙʀᴀɴᴅᴇᴅ](https://github.com/WCGKING) ғᴏʀ [ʙʀᴀɴᴅᴇᴅ ᴍᴜsɪᴄ ʙᴏᴛ](https://github.com/Sumitmeena12/BRANDEDKING). </b>
