@@ -1,12 +1,12 @@
 {
-    "name": "𝗕𝗥𝗔𝗡𝗗𝗘𝗗 𓆩🇽𓆪 𝗞𝗜𝗡𝗚",
+    "name": "DRAGON 𓆩🇽𓆪 𝗞𝗜𝗡𝗚",
     "description": "A Telegram Music Player Bot, written in Python with Pyrogram and Py-Tgcalls.",
-    "logo": "https://te.legra.ph/file/b7bb613b2ff3ffcc01e38.jpg",
+    "logo": "https://telegra.ph/file/d5d88fe2520e09e32ef07.jpg",
     "keywords": [
     "python3",
     "telegram",
     "bot",
-    "BRANDEDKING",
+    "DRAGONKING",
     "MusicBot",
     "telegram-bot",
     "pyrogram"
