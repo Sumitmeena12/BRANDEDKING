@@ -1,5 +1,5 @@
 ━━━━━━━━━━━━━━━━━━━━
-# DRAGON 𝓧 𝗞𝗜𝗡𝗚
+# 𝗗𝗥𝗔𝗚𝗢𝗡 𝓧 𝗞𝗜𝗡𝗚
 
 ━━━━━━━━━━━━━━━━━━━━
 ### 🌷𝐕𝐈𝐒𝐈𝐓𝐎𝐑𝐒🌷
@@ -72,11 +72,11 @@ Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
 ━━━━━━━━━━━━━━━━━━━━
 
 # Credit
-  - [𝐁𝐑𝐀𝐍𝐃𝐄𝐃 𝐗 𝐊𝐈𝐍𝐆](https://github.com/Sumitmeena12/BRANDEDKING)
+  - [𝗗𝗥𝗔𝗚𝗢𝗡 𝐗 𝐊𝐈𝐍𝐆](https://github.com/Sumitmeena12/BRANDEDKING)
 
 • This project is TheGodFather.
 
-• BRANDEDKING is Free Software: You can use, study share and improve it at your will. Specifically you can redistribute and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
+• DragonKING is Free Software: You can use, study share and improve it at your will. Specifically you can redistribute and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
 
 Made with ♥️ by [𝗪𝗖𝗚𝗞𝗜𝗡𝗚](https://github.com/WCGKING)
 
