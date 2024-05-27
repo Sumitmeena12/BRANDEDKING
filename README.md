@@ -6,9 +6,9 @@
 
 
 
-[![](https://img.shields.io/badge/BRANDEDKING-V2-darkgreen)](#)
-[![Stars](https://img.shields.io/github/stars/WCGKING/BRANDEDKING?style=flat-square&color=yellow)](https://github.com/Sumitmeena12/BRANDEDKING)
-[![Forks](https://img.shields.io/github/forks/WCGKING/BRANDEDKING?style=flat-square&color=orange)](https://github.com/Sumitmeena12/BRANDEDKING)
+[![](https://img.shields.io/badge/Sumitmeena12-V2-darkgreen)](#)
+[![Stars](https://img.shields.io/github/stars/WCGKING/Sumitmeena12?style=flat-square&color=yellow)](https://github.com/Sumitmeena12/BRANDEDKING)
+[![Forks](https://img.shields.io/github/forks/WCGKING/Sumitmeena12?style=flat-square&color=orange)](https://github.com/Sumitmeena12/BRANDEDKING)
 
 
 ![logo](https://telegra.ph/file/d5d88fe2520e09e32ef07.jpg)
